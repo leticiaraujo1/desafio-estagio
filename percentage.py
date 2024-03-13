@@ -1,3 +1,7 @@
+#Escreva um programa na linguagem que desejar onde 
+#calcule o percentual de representação que cada estado
+# teve dentro do valor total mensal da distribuidora.
+
 faturamento_por_estado = {
     'SP': 67836.43,
     'RJ': 36678.66,
